@@ -10,11 +10,11 @@ __Project Objectives__
  - Incorporate additional functionalities such as FFT mode, frequency counter, and audio output.
 
 __Technologies Used__    
- - MSP430 Microcontroller: Core processing unit for signal acquisition and analysis.
- - TI-RTOS: Used for task scheduling, synchronization, and efficient resource management.
- - PWM and ADC: Used for signal generation and acquisition.
- - DMA (Direct Memory Access): Reduces CPU load, improving overall system performance.
- - FFT (Fast Fourier Transform) Algorithm: Enables frequency domain analysis of signals.
- - C: Primary programming language for firmware development.
+ - **MSP430 Microcontroller**: Core processing unit for signal acquisition and analysis.
+ - **TI-RTOS**: Used for task scheduling, synchronization, and efficient resource management.
+ - **PWM and ADC**: Used for signal generation and acquisition.
+ - **DMA (Direct Memory Access)**: Reduces CPU load, improving overall system performance.
+ - **FFT (Fast Fourier Transform) Algorithm**: Enables frequency domain analysis of signals.
+ - **C**: Primary programming language for firmware development.
 
 
